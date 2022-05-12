@@ -4,3 +4,9 @@ $ git clone ssh://usuario@domain.com/repo.git
 Criar um novo repositório local
 $ git init
 
+Criar um ponto de referência com o estado atual de todos os arquivos.
+$ git commit 
+
+Exibir o status dos arquivos no repositório (não monitorados, modificados e não salvos, salvos e prontos para commit, etc).
+$ git status
+
